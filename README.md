@@ -1,4 +1,4 @@
-# chennai-house-price-prediction
+# chennai-house-price-prediction (comparitive study)
 
 This project is done by Mohamed Riyaz.k and Nithish kumar.M from KLN college of engineering.
 
