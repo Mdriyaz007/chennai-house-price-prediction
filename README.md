@@ -17,7 +17,7 @@ In this project we are using different types of algorithms.
 
 **STEPS**:
 
-**1)** Importing the dataset from kaggle 
+**1)** Importing the dataset from kaggle.com 
 
 **2)** Preprocess the data
 
@@ -53,6 +53,8 @@ The catboost is better than other three algorithms by predicting better results 
 **3)** RandomForestRegressor             97.1%
 
 **4)** XGBRegressor                      96.6%
+
+**Workspace:** Google Colaboratory Console
 
   
 **_Note:_** results may differ based on number of data in the Dataset.
