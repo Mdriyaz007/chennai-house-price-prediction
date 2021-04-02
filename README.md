@@ -56,11 +56,11 @@ Algorithms         with           Accuracy
 4)XGBRegressor                      96.6%
 
   
-results may differ based on number of Dataset.
+results may differ based on number of data in the Dataset.
   
   
 Thanks to "Nithish Kumar.M" for technical support and Special thanks to "Pradeep Raj Kumar.A" for better co-ordination.
   
-  Good Luck All
+Good Luck All
   
   
