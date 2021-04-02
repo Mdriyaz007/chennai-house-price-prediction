@@ -1,4 +1,6 @@
 # chennai-house-price-prediction
+
+This project is done by Mohamed Riyaz.k and Nithish kumar.M from KLN college of engineering.
 Predicting house prices with catboost algorithm
 In this project we are using different types of algorithms.
 1)XGBOOST
@@ -35,6 +37,9 @@ Ranking by Accuracy
 4)XGBRegressor                      96.6%
   
   results may differ based on number of Dataset.
+  
+  
+Thanks to "Nithish Kumar.M" for technical support and Special thanks to "Pradeep Raj Kumar.A" for better co-ordination.
   
   Good Luck All
   
