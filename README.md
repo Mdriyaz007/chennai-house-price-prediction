@@ -1,6 +1,6 @@
 # chennai-house-price-prediction (comparitive study)
 
-This project is done by Mohamed Riyaz.k and Nithish kumar.M from KLN college of engineering.
+This project is done by **Mohamed Riyaz.k** and **Nithish kumar.M** from KLN college of engineering.
 
 
 Predicting house prices with different Machine learning algorithms.
@@ -43,10 +43,8 @@ In this project we are using different types of algorithms.
 
 The catboost is better than other three algorithms by predicting better results with high Accuracy.
 
-Ranking by Accuracy
+**Ranking by Accuracy**
 
-
-Algorithms         with           Accuracy
 
 1)CatBoostRegressor                 99.3%
 
@@ -57,11 +55,11 @@ Algorithms         with           Accuracy
 4)XGBRegressor                      96.6%
 
   
-results may differ based on number of data in the Dataset.
+**_Note:_** results may differ based on number of data in the Dataset.
   
   
 Thanks to **Nithish Kumar.M** for technical support and Special thanks to **Pradeep Raj Kumar.A** for better co-ordination.
   
-Good Luck All
+**Good Luck All**
   
   
