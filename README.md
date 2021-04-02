@@ -45,7 +45,7 @@ The catboost is better than other three algorithms by predicting better results 
 Ranking by Accuracy
 
 
-Algorithms                    Accuracy
+Algorithms         with           Accuracy
 
 1)CatBoostRegressor                 99.3%
 
