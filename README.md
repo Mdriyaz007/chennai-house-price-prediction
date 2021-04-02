@@ -7,37 +7,37 @@ Predicting house prices with different Machine learning algorithms.
 
 In this project we are using different types of algorithms.
 
-1)XGBOOST
+**1)**XGBOOST
 
-2)LGBOOST
+**2)**LGBOOST
 
-3)CatBoost
+**3)**CatBoost
 
-4)Random Forest
+**4)**Random Forest
 
 **STEPS**:
 
-1)Importing the dataset from kaggle 
+**1)**Importing the dataset from kaggle 
 
-2)Preprocess the data
+**2)**Preprocess the data
 
-3)label encoding
+**3)**label encoding
 
-4)train/test split
+**4)**train/test split
 
-5)feature extraction
+**5)**feature extraction
   
-  5.1)Light Gradient Boosting (LGBMRegressor)
+**  5.1)**Light Gradient Boosting (LGBMRegressor)
   
-  5.2)Random Forest (RandomForestRegressor)
+  **5.2)**Random Forest (RandomForestRegressor)
   
-  5.3)Cat Boost (CatBoostRegressor)
+  **5.3)**Cat Boost (CatBoostRegressor)
   
-  5.4)Extreme Gradient Boosting (XGBRegressor)
+**  5.4)**Extreme Gradient Boosting (XGBRegressor)
 
-6)prediction
+**6)**prediction
 
-7)evaluation
+**7)**evaluation
 
 **RESULT**:
 
@@ -46,13 +46,13 @@ The catboost is better than other three algorithms by predicting better results 
 **Ranking by Accuracy**
 
 
-1)CatBoostRegressor                 99.3%
+**1)** CatBoostRegressor                 99.3%
 
-2)LGBMRegressor                     98.6%
+**2)** LGBMRegressor                     98.6%
 
-3)RandomForestRegressor             97.1%
+**3)** RandomForestRegressor             97.1%
 
-4)XGBRegressor                      96.6%
+**4)** XGBRegressor                      96.6%
 
   
 **_Note:_** results may differ based on number of data in the Dataset.
