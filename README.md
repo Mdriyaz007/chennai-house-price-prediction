@@ -1,6 +1,8 @@
 # chennai-house-price-prediction
 
 This project is done by Mohamed Riyaz.k and Nithish kumar.M from KLN college of engineering.
+
+
 Predicting house prices with catboost algorithm
 In this project we are using different types of algorithms.
 1)XGBOOST
