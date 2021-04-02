@@ -3,7 +3,8 @@
 This project is done by Mohamed Riyaz.k and Nithish kumar.M from KLN college of engineering.
 
 
-Predicting house prices with catboost algorithm
+Predicting house prices with different Machine learning algorithms.
+
 In this project we are using different types of algorithms.
 
 1)XGBOOST
@@ -14,7 +15,7 @@ In this project we are using different types of algorithms.
 
 4)Random Forest
 
-STEPS:
+**STEPS**:
 
 1)Importing the dataset from kaggle 
 
@@ -38,7 +39,7 @@ STEPS:
 
 7)evaluation
 
-RESULT:
+**RESULT**:
 
 The catboost is better than other three algorithms by predicting better results with high Accuracy.
 
@@ -59,7 +60,7 @@ Algorithms         with           Accuracy
 results may differ based on number of data in the Dataset.
   
   
-Thanks to "Nithish Kumar.M" for technical support and Special thanks to "Pradeep Raj Kumar.A" for better co-ordination.
+Thanks to **Nithish Kumar.M** for technical support and Special thanks to **Pradeep Raj Kumar.A** for better co-ordination.
   
 Good Luck All
   
